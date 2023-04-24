@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
